@@ -15,4 +15,4 @@ Install Plasma LTS on your system
    sudo sh -c "pacman -Syyuu"
 ```
 
-Voila! You should now see Unity in the session list, and be able to log into it.
+Voila! You should now see Plasma LTS on your system.
