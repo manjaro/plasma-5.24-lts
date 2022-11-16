@@ -6,7 +6,7 @@ Insert the following lines right above [extra] in /etc/pacman.conf:
 ```
    [plasma-5.24-lts]
    SigLevel = Required DatabaseOptional
-   https://manjaro.github.io/plasma-5.24-lts/x86_64/
+   Server = https://manjaro.github.io/plasma-5.24-lts/x86_64/
 ```
 
 Install Plasma LTS on your system
