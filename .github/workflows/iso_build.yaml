@@ -36,7 +36,7 @@ jobs:
           branch: ${{ matrix.branch }}
           scope: ${{ matrix.scope }}
           version: "22.0.r${{ needs.prepare-release.outputs.release_tag }}"
-          kernel: linux60
+          kernel: linux61
           code-name: "Sikaris"
           custom-repo: "plasma-5.24-lts"
           custom-repo-url: 'Server = https:\/\/manjaro.github.io\/plasma-5.24-lts\/x86_64'
